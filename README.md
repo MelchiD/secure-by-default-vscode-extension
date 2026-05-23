@@ -1,14 +1,4 @@
 secure-by-default-extension README
-## Important Notice
-
-The folder submitted with this project contains only the source code (src/) of the extension and does not include the complete packaged extension.
-
-The full working extension package has been shared separately with Dr. Chinnu Mary and also CC: to my supervisors via outlook with a OneDrive link.
-
-Due to submission size limitations, it is strongly recommended to:
-
-Use the OneDrive version for testing and demonstration, as it contains all compiled files and dependencies required to run the extension properly.
-
 ## Project Overview
 
 The Secure-by-Default Extension is a Visual Studio Code extension designed to detect insecure default configurations in Express.js applications.
